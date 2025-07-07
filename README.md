@@ -1,6 +1,3 @@
-# My-To-Do-List
-
-
 # 📝 Web-Based To-Do List Application
 To-Do List is a basic, functional web-based To-Do List application that allows users to manage their tasks.
 
@@ -27,5 +24,15 @@ This app is run on a local server - XAMPP.
 
 1. Open and start the **Apache** server from XAMPP Control Panel.
 2. Copy this repo or your project files into 'C:\xampp\htdocs\ToDoList-App'
-3. Visit: [http://localhost/ToDoList-App/index.html]
+3. Visit: [http://localhost/ToDoList-App/index.html] on any browser. 
 4. You can now add, complete, and persist tasks.
+
+## 📚 What I Learned
+
+- Full-stack app development without a database
+- How to connect frontend actions to a PHP backend
+- JSON file handling with PHP
+- Dynamic DOM manipulation with JavaScript
+- How to run and test PHP apps using XAMPP
+
+<h6>*This application is created with the help of various online and offline sources, but not plagiarised from anywhere.</h6>
